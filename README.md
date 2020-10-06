@@ -8,7 +8,7 @@ This article has been developed using Xcode 11.4.1, and Swift 5.2.2
 
 Want to display a loading screen that can appear when you're doing some heavyweight operations? Perhaps you want this with when you are producing your App with a Storyboard, perhaps you want to do this programatically. Either way, this article has you covered.
 
-Oh, and there are versions using `CABasicAnimation` and `UIView.animate` all nestled rather nicely in the attached [Repo](https://github.com/stevencurtis/SwiftCoding/tree/master/LoadingAnimation).
+Oh, and there are versions using `CABasicAnimation` and `UIView.animate` all nestled rather nicely in the attached [Repo](https://github.com/AarshKariya/LoadingAnimation).
 
 
 ## Prerequisites: 
@@ -281,10 +281,10 @@ override func loadView() {
 # Conclusion
 This article is useful to help you with the difference between `Storyboard` and `constraints`. 
 
-My take on this is that the version using `constraints` programatically is not only easier to write, but easier to maintain and change in the future. If you're not that familiar with walking away from the `storyboard` you might enjoy my [storyboard](https://medium.com/@stevenpcurtis.sc/avoid-storyboards-in-your-apps-8e726df43d2e) technical article.
+My take on this is that the version using `constraints` programatically is not only easier to write, but easier to maintain and change in the future. 
 
-It is rather complex in the description, but rather easy in the implementation. Take a look at the  attached [Repo](https://github.com/stevencurtis/SwiftCoding/tree/master/LoadingAnimation). It is a rather wonderful thing.
+It is rather complex in the description, but rather easy in the implementation. Take a look at the  attached [Repo](https://github.com/AarshKariya/LoadingAnimation). It is a rather wonderful thing.
 
-If you've any questions, comments or suggestions please hit me up on [Twitter](https://twitter.com/stevenpcurtis) 
+If you've any questions, comments or suggestions please hit me up on [LinkedIn](https://www.linkedin.com/in/aarsh-kariya-b27172190/) 
 
 
